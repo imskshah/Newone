@@ -1,0 +1,9 @@
+k=2
+
+sum=0
+
+while(k<n
+){sum= sum+k
+
+k=k+2
+}
